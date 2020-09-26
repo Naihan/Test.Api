@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UapT0SNJzs8HLPIOAPIBBokZc6G82giVMCiqQ7rDth+roRlCu4+JtNa3vVo3VkDr8ZJh7PyEmvjaYAB61QU7/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nimrod\\source\\repos\\Source.Test\\Test.Api\\Test.Api\\Test.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nimrod\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
